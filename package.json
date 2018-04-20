@@ -12,14 +12,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhinavk99/crypto-bot.git"
+    "url": "git+https://rmcbezgin/rmccbezginotebo.git"
   },
   "author": "Abhinav Kasamsetty <abhinavkasamsetty@gmail.com> (http://github.com/abhinavk99)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/abhinavk99/crypto-bot/issues"
   },
-  "homepage": "https://github.com/abhinavk99/crypto-bot#readme"
+  "homepage": "https://github.com/rmcbezgin/rmccbezginotebo#readme"
 }
